@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ali-alhwayzee
+- 👋 Hi, I’m @ali-alhwayzee, PhD in Software Engineering
 - 👀 I’m interested in Software Engineering And Devlopment
-- 🌱 I’m currently learning PhD in Software Engineering
 - 💞️ I feel that it's time to explore new challenges and take the next steps in my career
 - 📫 How to reach me ali.alhwayzee@gmail.com
